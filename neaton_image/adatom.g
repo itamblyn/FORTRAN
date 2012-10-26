@@ -1,0 +1,11 @@
+ c6_z - surface_z:    6.432718     sigma:   -2.337365    
+ c6_z - surface_z:    6.506032     sigma:   -2.346188    
+ c6_z - surface_z:    6.565325     sigma:   -2.353154    
+ c6_z - surface_z:    6.160729     sigma:   -2.302442    
+ c6_z - surface_z:    5.885072     sigma:   -2.263080    
+ c6_z - surface_z:    5.221560     sigma:   -2.147256    
+ c6_z - surface_z:    5.117017     sigma:   -2.125602    
+ c6_z - surface_z:    4.723719     sigma:   -2.033249    
+ c6_z - surface_z:    3.771960     sigma:   -1.701313    
+ c6_z - surface_z:    4.094784     sigma:   -1.836781    
+ c6_z - surface_z:    4.190077     sigma:   -1.871529

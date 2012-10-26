@@ -1,0 +1,14 @@
+#
+# a =   100.0 
+# b =   100.0     
+# c =   100.0     
+# number_of_particles =           4
+# number_of_neighbors =           1
+#
+#
+#
+# units = bohr
+H         0.00		.5 	0.0	1
+H         0.00		-.5	0.0	0
+H         0.807 	5.707   0.0	3
+H         -0.607	4.293    0.0	2

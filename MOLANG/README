@@ -1,0 +1,6 @@
+mol - looks for nearest bonded particle, finds its com, reports bearing to com
+cmol - looks for nearest com, reports bearing to com
+
+note: there is still and issue with the COM being directly in line with a molecule's principle axis...
+
+sdf - looks for nearest particle, reports bearing to nearest particle
